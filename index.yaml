@@ -1,0 +1,17 @@
+apiVersion: v1
+entries:
+  jenkins:
+  - apiVersion: v1
+    created: "2021-09-26T15:03:58.833296558+05:30"
+    description: Setup of jenkins manifests
+    digest: 9419d94e2a461401364db4400ed0d24281a30b80a1b980bf747ae913bfb1c721
+    keywords:
+    - jenkins
+    maintainers:
+    - email: kallakruparaju@gmail.com
+      name: kalla kruparaju
+    name: jenkins
+    urls:
+    - https://kallakruparaju.github.io/Jenkins-helmchart/jenkins-1.0.0.tgz
+    version: 1.0.0
+generated: "2021-09-26T15:03:58.832809364+05:30"
